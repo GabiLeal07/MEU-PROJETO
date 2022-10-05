@@ -1,0 +1,23 @@
+h1 {
+    color: black;
+    background-color: grey;
+}
+ *{
+    border: solid;
+}
+
+.Info {
+    background-color: blue;
+}
+
+.Empate{
+    background-color: grey;
+}
+
+.Gremio {
+    background-color: lightblue;
+}
+
+.Flamengo {
+    background-color: red;
+}
